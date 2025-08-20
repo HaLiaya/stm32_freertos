@@ -1,0 +1,1 @@
+stm32f103vet6_freertos\startup_stm32f103xe.o: startup_stm32f103xe.s
